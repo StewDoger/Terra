@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">243168622483-fs92rucd9k7f40sd2i7la5acgsk8kv9k.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">243168622483</string>
+    <string name="google_api_key" translatable="false">AIzaSyAi1aYB6DP5z48KrldSk3TMPF7R-USVQ-o</string>
+    <string name="google_app_id" translatable="false">1:243168622483:android:babba9cf0993aa73299a66</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAi1aYB6DP5z48KrldSk3TMPF7R-USVQ-o</string>
+    <string name="google_storage_bucket" translatable="false">nallagram-ac.appspot.com</string>
+    <string name="project_id" translatable="false">nallagram-ac</string>
+</resources>
