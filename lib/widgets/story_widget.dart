@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nallagram/screens/Story/storyview.dart';
+import 'package:terra_apps/screens/Story/storyview.dart';
 
 class StoryWid extends StatelessWidget {
   final String name;

@@ -1,10 +1,10 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:nallagram/widgets/SearchBox.dart';
-import 'package:nallagram/widgets/ctag.dart';
+import 'package:terra_apps/widgets/SearchBox.dart';
+import 'package:terra_apps/widgets/ctag.dart';
 import 'dart:math';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:nallagram/screens/Posts/postView_model.dart';
+import 'package:terra_apps/screens/Posts/postView_model.dart';
 
 final _store = FirebaseFirestore.instance;
 

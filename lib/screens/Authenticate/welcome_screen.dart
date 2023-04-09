@@ -23,7 +23,7 @@ class _WelcomeState extends State<Welcome> {
             Center(
               child: Hero(
                 tag: 'logo',
-                child: Text('Nallagram',
+                child: Text('Terra',
                     style: TextStyle(
                       fontFamily: 'Billabong',
                       color: Colors.black,

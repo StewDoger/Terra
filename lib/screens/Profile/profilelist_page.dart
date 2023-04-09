@@ -3,7 +3,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:nallagram/screens/Profile/user_profile.dart';
+import 'package:terra_apps/screens/Profile/user_profile.dart';
 
 import '../../nav.dart';
 

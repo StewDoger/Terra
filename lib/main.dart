@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:nallagram/firebase_options.dart';
-import 'package:nallagram/nav.dart';
-import 'package:nallagram/screens/Authenticate/login_screen.dart';
-import 'package:nallagram/screens/Chat/calls_chat.dart';
-import 'package:nallagram/screens/Chat/new_message_chat.dart';
+import 'package:terra_apps/firebase_options.dart';
+import 'package:terra_apps/nav.dart';
+import 'package:terra_apps/screens/Authenticate/login_screen.dart';
+import 'package:terra_apps/screens/Chat/calls_chat.dart';
+import 'package:terra_apps/screens/Chat/new_message_chat.dart';
 import 'package:provider/provider.dart';
 import 'screens/Authenticate/welcome_screen.dart';
 import 'screens/Authenticate/register_screen.dart';
