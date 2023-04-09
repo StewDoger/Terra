@@ -61,7 +61,7 @@ class _NavState extends State<Nav> {
         elevation: 0.0,
         backgroundColor: Colors.white,
         title: Text(
-          'Nallagram',
+          'Terra',
           style: TextStyle(
             fontFamily: 'Metropolis',
             color: Colors.black,

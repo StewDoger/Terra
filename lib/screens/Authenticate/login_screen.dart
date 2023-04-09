@@ -36,7 +36,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   Center(
                     child: Hero(
                       tag: 'logo',
-                      child: Text('Nallagram',
+                      child: Text('Terra',
                           style: TextStyle(
                             fontFamily: 'Billabong',
                             color: Colors.black,
