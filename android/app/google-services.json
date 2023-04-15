@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "60756086738",
-    "project_id": "terra-34cac",
-    "storage_bucket": "terra-34cac.appspot.com"
+    "project_number": "243168622483",
+    "project_id": "nallagram-ac",
+    "storage_bucket": "nallagram-ac.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:60756086738:android:77f90d613dfe6abc7dc20b",
+        "mobilesdk_app_id": "1:243168622483:android:babba9cf0993aa73299a66",
         "android_client_info": {
-          "package_name": "com.terra"
+          "package_name": "com.cyblogerz.nallagram"
         }
       },
       "oauth_client": [
         {
-          "client_id": "60756086738-qvbngtol1nn689co3fok8q1lv1c7ekip.apps.googleusercontent.com",
+          "client_id": "243168622483-fs92rucd9k7f40sd2i7la5acgsk8kv9k.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCozDlKPTNJb13ScErSfVrogr9SbF7cg10"
+          "current_key": "AIzaSyAi1aYB6DP5z48KrldSk3TMPF7R-USVQ-o"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "60756086738-qvbngtol1nn689co3fok8q1lv1c7ekip.apps.googleusercontent.com",
+              "client_id": "243168622483-fs92rucd9k7f40sd2i7la5acgsk8kv9k.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
