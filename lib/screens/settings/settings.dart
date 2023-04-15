@@ -49,7 +49,10 @@ class AppSettings extends StatelessWidget {
             title: Text("About"),
           ),
           ListTile(
-            leading: FaIcon(FontAwesomeIcons.signOutAlt),
+            title: Text("Add Account"),
+          ),
+          ListTile(
+            // leading: FaIcon(FontAwesomeIcons.signOutAlt),
             title: Text("Logout"),
           ),
         ],

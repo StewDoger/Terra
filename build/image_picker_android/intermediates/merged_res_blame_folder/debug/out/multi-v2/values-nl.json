@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Terra\\build\\image_picker_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nl\\values-nl.xml",
+            "outputFile": "D:\\Mobile Programming (Teori)\\Terra\\build\\image_picker_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nl\\values-nl.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\7d831ee6df538daa566e3cb1458f9453\\transformed\\core-1.8.0\\res\\values-nl\\values-nl.xml",
+                    "source": "C:\\Users\\Reyhan\\.gradle\\caches\\transforms-3\\7d831ee6df538daa566e3cb1458f9453\\transformed\\core-1.8.0\\res\\values-nl\\values-nl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "D:\\Terra\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\values-nl\\values-nl.xml",
+            "outputFile": "D:\\Mobile Programming (Teori)\\Terra\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\values-nl\\values-nl.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\7d831ee6df538daa566e3cb1458f9453\\transformed\\core-1.8.0\\res\\values-nl\\values-nl.xml",
+                    "source": "C:\\Users\\Reyhan\\.gradle\\caches\\transforms-3\\7d831ee6df538daa566e3cb1458f9453\\transformed\\core-1.8.0\\res\\values-nl\\values-nl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

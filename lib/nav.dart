@@ -78,14 +78,14 @@ class _NavState extends State<Nav> {
             },
             child: Container(
               padding: EdgeInsets.all(2),
-              decoration: BoxDecoration(
-                shape: BoxShape.circle,
-                gradient: LinearGradient(
-                  colors: [Colors.pink, Colors.redAccent, Colors.orange],
-                  begin: Alignment.topLeft,
-                  end: Alignment.bottomRight,
-                ),
-              ),
+              // decoration: BoxDecoration(
+              //   shape: BoxShape.circle,
+              //   gradient: LinearGradient(
+              //     colors: [Colors.pink, Colors.redAccent, Colors.orange],
+              //     begin: Alignment.topLeft,
+              //     end: Alignment.bottomRight,
+              //   ),
+              // ),
               child: Icon(Icons.notes_rounded),
             ),
           ),
