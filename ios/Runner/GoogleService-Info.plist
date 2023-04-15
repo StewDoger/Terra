@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>243168622483-j2n9iso4qa9lmioou32pik9u431kl49g.apps.googleusercontent.com</string>
+	<string>60756086738-fqm0lfss5eska22fllavk3moesd3gd4a.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.243168622483-j2n9iso4qa9lmioou32pik9u431kl49g</string>
+	<string>com.googleusercontent.apps.60756086738-fqm0lfss5eska22fllavk3moesd3gd4a</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDwUlZTdnWEo4SS6ovnm8DU9ISg5g8lK1k</string>
+	<string>AIzaSyAN903XfkRSmZUR5XbAjIZeDXEppPB8WCo</string>
 	<key>GCM_SENDER_ID</key>
-	<string>243168622483</string>
+	<string>60756086738</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.cyblogerz.nallagram</string>
+	<string>com.terra</string>
 	<key>PROJECT_ID</key>
-	<string>nallagram-ac</string>
+	<string>terra-34cac</string>
 	<key>STORAGE_BUCKET</key>
-	<string>nallagram-ac.appspot.com</string>
+	<string>terra-34cac.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:243168622483:ios:98911caf952c5700299a66</string>
+	<string>1:60756086738:ios:05952ec64ade39da7dc20b</string>
 </dict>
 </plist>
