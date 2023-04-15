@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAi1aYB6DP5z48KrldSk3TMPF7R-USVQ-o',
-    appId: '1:243168622483:android:babba9cf0993aa73299a66',
-    messagingSenderId: '243168622483',
-    projectId: 'nallagram-ac',
-    storageBucket: 'nallagram-ac.appspot.com',
+    apiKey: 'AIzaSyCozDlKPTNJb13ScErSfVrogr9SbF7cg10',
+    appId: '1:60756086738:android:77f90d613dfe6abc7dc20b',
+    messagingSenderId: '60756086738',
+    projectId: 'terra-34cac',
+    storageBucket: 'terra-34cac.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDwUlZTdnWEo4SS6ovnm8DU9ISg5g8lK1k',
-    appId: '1:243168622483:ios:98911caf952c5700299a66',
-    messagingSenderId: '243168622483',
-    projectId: 'nallagram-ac',
-    storageBucket: 'nallagram-ac.appspot.com',
-    iosClientId: '243168622483-j2n9iso4qa9lmioou32pik9u431kl49g.apps.googleusercontent.com',
-    iosBundleId: 'com.cyblogerz.nallagram',
+    apiKey: 'AIzaSyAN903XfkRSmZUR5XbAjIZeDXEppPB8WCo',
+    appId: '1:60756086738:ios:05952ec64ade39da7dc20b',
+    messagingSenderId: '60756086738',
+    projectId: 'terra-34cac',
+    storageBucket: 'terra-34cac.appspot.com',
+    iosClientId: '60756086738-fqm0lfss5eska22fllavk3moesd3gd4a.apps.googleusercontent.com',
+    iosBundleId: 'com.terra',
   );
 }
