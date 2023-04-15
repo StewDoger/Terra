@@ -210,33 +210,33 @@ class _ProfileState extends State<Profile> {
               )),
             ],
           ),
-          SingleChildScrollView(
-            scrollDirection: Axis.horizontal,
-            child: Row(
-              children: <Widget>[
-                Highlight(
-                    name: 'Github',
-                    url:
-                        'https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png'),
-                Highlight(
-                    name: 'LinkedIn',
-                    url:
-                        'https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png'),
-                Highlight(
-                    name: 'Dribbble',
-                    url:
-                        'https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png'),
-                Highlight(
-                    name: 'Reddit',
-                    url:
-                        'https://www.redditinc.com/assets/images/site/reddit-logo.png'),
-                Highlight(
-                    name: 'Quora',
-                    url:
-                        'https://www.shareicon.net/data/128x128/2015/07/21/72869_quora_512x512.png'),
-              ],
-            ),
-          ),
+          // SingleChildScrollView(
+          //   scrollDirection: Axis.horizontal,
+          //   child: Row(
+          //     children: <Widget>[
+          //       Highlight(
+          //           name: 'Github',
+          //           url:
+          //               'https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png'),
+          //       Highlight(
+          //           name: 'LinkedIn',
+          //           url:
+          //               'https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png'),
+          //       Highlight(
+          //           name: 'Dribbble',
+          //           url:
+          //               'https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png'),
+          //       Highlight(
+          //           name: 'Reddit',
+          //           url:
+          //               'https://www.redditinc.com/assets/images/site/reddit-logo.png'),
+          //       Highlight(
+          //           name: 'Quora',
+          //           url:
+          //               'https://www.shareicon.net/data/128x128/2015/07/21/72869_quora_512x512.png'),
+          //     ],
+          //   ),
+          // ),
           ProfilePosts(),
         ],
       ),
