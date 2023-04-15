@@ -5,12 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Nallagram-Insta-clone-master",
+            "name": "Terra",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "Nallagram-Insta-clone-master (profile mode)",
+            "name": "Terra",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
