@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\Mobile Programming (Teori)\\Terra\\build\\video_player_android\\intermediates\\res\\merged\\debug\\menu\\example_menu2.xml",
-        "source": "C:\\Users\\Reyhan\\.gradle\\caches\\transforms-3\\2fcc577f675ce6704336ccf92e77522a\\transformed\\core-1.7.0\\res\\menu\\example_menu2.xml"
+        "merged": "D:\\Terra\\build\\video_player_android\\intermediates\\res\\merged\\debug\\menu\\example_menu.xml",
+        "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\2fcc577f675ce6704336ccf92e77522a\\transformed\\core-1.7.0\\res\\menu\\example_menu.xml"
     },
     {
-        "merged": "D:\\Mobile Programming (Teori)\\Terra\\build\\video_player_android\\intermediates\\res\\merged\\debug\\menu\\example_menu.xml",
-        "source": "C:\\Users\\Reyhan\\.gradle\\caches\\transforms-3\\2fcc577f675ce6704336ccf92e77522a\\transformed\\core-1.7.0\\res\\menu\\example_menu.xml"
+        "merged": "D:\\Terra\\build\\video_player_android\\intermediates\\res\\merged\\debug\\menu\\example_menu2.xml",
+        "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\2fcc577f675ce6704336ccf92e77522a\\transformed\\core-1.7.0\\res\\menu\\example_menu2.xml"
     }
 ]
