@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Mobile Programming (Teori)\\Terra\\build\\video_player_android\\intermediates\\res\\merged\\debug\\values-or\\values-or.xml",
+            "outputFile": "D:\\Terra\\build\\video_player_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Reyhan\\.gradle\\caches\\transforms-3\\2fcc577f675ce6704336ccf92e77522a\\transformed\\core-1.7.0\\res\\values-or\\values-or.xml",
+                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\2fcc577f675ce6704336ccf92e77522a\\transformed\\core-1.7.0\\res\\values-or\\values-or.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "D:\\Mobile Programming (Teori)\\Terra\\build\\video_player_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
+            "outputFile": "D:\\Terra\\build\\video_player_android\\intermediates\\res\\merged\\debug\\values-or\\values-or.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Reyhan\\.gradle\\caches\\transforms-3\\2fcc577f675ce6704336ccf92e77522a\\transformed\\core-1.7.0\\res\\values-or\\values-or.xml",
+                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\2fcc577f675ce6704336ccf92e77522a\\transformed\\core-1.7.0\\res\\values-or\\values-or.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

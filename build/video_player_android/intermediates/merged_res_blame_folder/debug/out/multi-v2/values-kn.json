@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Mobile Programming (Teori)\\Terra\\build\\video_player_android\\intermediates\\res\\merged\\debug\\values-kn\\values-kn.xml",
+            "outputFile": "D:\\Terra\\build\\video_player_android\\intermediates\\res\\merged\\debug\\values-kn\\values-kn.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Reyhan\\.gradle\\caches\\transforms-3\\43f4fc414055a2c9fcd2c370e3ef7668\\transformed\\jetified-exoplayer-core-2.18.1\\res\\values-kn\\values-kn.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,129,193,270,341,422,504,605,698",
-                        "endColumns": "73,63,76,70,80,81,100,92,85",
-                        "endOffsets": "124,188,265,336,417,499,600,693,779"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Reyhan\\.gradle\\caches\\transforms-3\\2fcc577f675ce6704336ccf92e77522a\\transformed\\core-1.7.0\\res\\values-kn\\values-kn.xml",
+                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\2fcc577f675ce6704336ccf92e77522a\\transformed\\core-1.7.0\\res\\values-kn\\values-kn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,25 +18,25 @@
                         "startOffsets": "784",
                         "endColumns": "100",
                         "endOffsets": "880"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\43f4fc414055a2c9fcd2c370e3ef7668\\transformed\\jetified-exoplayer-core-2.18.1\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,129,193,270,341,422,504,605,698",
+                        "endColumns": "73,63,76,70,80,81,100,92,85",
+                        "endOffsets": "124,188,265,336,417,499,600,693,779"
                     }
                 }
             ]
         },
         {
-            "outputFile": "D:\\Mobile Programming (Teori)\\Terra\\build\\video_player_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
+            "outputFile": "D:\\Terra\\build\\video_player_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Reyhan\\.gradle\\caches\\transforms-3\\43f4fc414055a2c9fcd2c370e3ef7668\\transformed\\jetified-exoplayer-core-2.18.1\\res\\values-kn\\values-kn.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,129,193,270,341,422,504,605,698",
-                        "endColumns": "73,63,76,70,80,81,100,92,85",
-                        "endOffsets": "124,188,265,336,417,499,600,693,779"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Reyhan\\.gradle\\caches\\transforms-3\\2fcc577f675ce6704336ccf92e77522a\\transformed\\core-1.7.0\\res\\values-kn\\values-kn.xml",
+                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\2fcc577f675ce6704336ccf92e77522a\\transformed\\core-1.7.0\\res\\values-kn\\values-kn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -60,6 +50,16 @@
                         "startOffsets": "784",
                         "endColumns": "100",
                         "endOffsets": "880"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\43f4fc414055a2c9fcd2c370e3ef7668\\transformed\\jetified-exoplayer-core-2.18.1\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,129,193,270,341,422,504,605,698",
+                        "endColumns": "73,63,76,70,80,81,100,92,85",
+                        "endOffsets": "124,188,265,336,417,499,600,693,779"
                     }
                 }
             ]

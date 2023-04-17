@@ -3,6 +3,6 @@
 3    package="com.fintasys.emoji_picker_flutter" >
 4
 5    <uses-sdk android:minSdkVersion="16" />
-5-->C:\Users\Reyhan\AppData\Local\Pub\Cache\hosted\pub.dev\emoji_picker_flutter-1.4.0\android\src\main\AndroidManifest.xml
+5-->C:\Users\MSI\AppData\Local\Pub\Cache\hosted\pub.dev\emoji_picker_flutter-1.4.0\android\src\main\AndroidManifest.xml
 6
 7</manifest>

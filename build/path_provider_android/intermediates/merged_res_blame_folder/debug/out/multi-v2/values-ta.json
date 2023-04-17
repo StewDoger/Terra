@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Mobile Programming (Teori)\\Terra\\build\\path_provider_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ta\\values-ta.xml",
+            "outputFile": "D:\\Terra\\build\\path_provider_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ta\\values-ta.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Reyhan\\.gradle\\caches\\transforms-3\\7fa54d90673cc4b389c0b05416b9a515\\transformed\\core-1.6.0\\res\\values-ta\\values-ta.xml",
+                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\7fa54d90673cc4b389c0b05416b9a515\\transformed\\core-1.6.0\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "D:\\Mobile Programming (Teori)\\Terra\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\values-ta\\values-ta.xml",
+            "outputFile": "D:\\Terra\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\values-ta\\values-ta.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Reyhan\\.gradle\\caches\\transforms-3\\7fa54d90673cc4b389c0b05416b9a515\\transformed\\core-1.6.0\\res\\values-ta\\values-ta.xml",
+                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\7fa54d90673cc4b389c0b05416b9a515\\transformed\\core-1.6.0\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
