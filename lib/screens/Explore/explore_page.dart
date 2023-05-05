@@ -50,9 +50,6 @@ class Explore extends StatelessWidget {
           child: Row(
           ),
         ),
-        // SizedBox(
-        //   height: 20.0,
-        // ),
 
         PostsStream(),
       ],
