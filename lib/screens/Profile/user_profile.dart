@@ -271,46 +271,6 @@ class _UserProfileState extends State<UserProfile> {
               )),
             ],
           ),
-          // Row(
-          //   children: <Widget>[
-          //     Container(
-          //       height: 100,
-          //       width: 100,
-          //       decoration: BoxDecoration(
-          //         borderRadius: BorderRadius.circular(20),
-          //         border: Border()
-          //       ),
-          //       child: Icon(Icons.add),
-          //     ),
-          //   ],
-          // ),
-          // SingleChildScrollView(
-          //   scrollDirection: Axis.horizontal,
-          //   child: Row(
-          //     children: <Widget>[
-          //       Highlight(
-          //           name: 'Github',
-          //           url:
-          //               'https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png'),
-          //       Highlight(
-          //           name: 'LinkedIn',
-          //           url:
-          //               'https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png'),
-          //       Highlight(
-          //           name: 'LinkedIn',
-          //           url:
-          //               'https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png'),
-          //       Highlight(
-          //           name: 'LinkedIn',
-          //           url:
-          //               'https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png'),
-          //       Highlight(
-          //           name: 'LinkedIn',
-          //           url:
-          //               'https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png'),
-          //     ],
-          //   ),
-          // ),
           ProfilePosts(
             userid: widget.userid,
           ),

@@ -1,26 +1,26 @@
 [
     {
-        "merged": "D:\\Terra\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\7fa54d90673cc4b389c0b05416b9a515\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+        "merged": "D:\\VS Code\\Terra-1\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\7fa54d90673cc4b389c0b05416b9a515\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "D:\\Terra\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
-        "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\7fa54d90673cc4b389c0b05416b9a515\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+        "merged": "D:\\VS Code\\Terra-1\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\7fa54d90673cc4b389c0b05416b9a515\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "D:\\Terra\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\7fa54d90673cc4b389c0b05416b9a515\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+        "merged": "D:\\VS Code\\Terra-1\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\7fa54d90673cc4b389c0b05416b9a515\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "D:\\Terra\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\7fa54d90673cc4b389c0b05416b9a515\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+        "merged": "D:\\VS Code\\Terra-1\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\7fa54d90673cc4b389c0b05416b9a515\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
     },
     {
-        "merged": "D:\\Terra\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\7fa54d90673cc4b389c0b05416b9a515\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "D:\\VS Code\\Terra-1\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\7fa54d90673cc4b389c0b05416b9a515\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "D:\\Terra\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\7fa54d90673cc4b389c0b05416b9a515\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+        "merged": "D:\\VS Code\\Terra-1\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\7fa54d90673cc4b389c0b05416b9a515\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
     }
 ]

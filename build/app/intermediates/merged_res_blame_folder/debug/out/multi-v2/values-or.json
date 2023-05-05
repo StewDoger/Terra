@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Terra\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
+            "outputFile": "D:\\VS Code\\Terra-1\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\58ff6a7df21c424370ea93d2221e5ab3\\transformed\\browser-1.4.0\\res\\values-or\\values-or.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,165,270,383",
-                        "endColumns": "109,104,112,108",
-                        "endOffsets": "160,265,378,487"
-                    },
-                    "to": {
-                        "startLines": "20,21,22,23",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "2335,2445,2550,2663",
-                        "endColumns": "109,104,112,108",
-                        "endOffsets": "2440,2545,2658,2767"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\eb3241a3a09cb40f91a1af0a8340d37c\\transformed\\jetified-play-services-base-18.0.1\\res\\values-or\\values.xml",
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\eb3241a3a09cb40f91a1af0a8340d37c\\transformed\\jetified-play-services-base-18.0.1\\res\\values-or\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,24 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\7d831ee6df538daa566e3cb1458f9453\\transformed\\core-1.8.0\\res\\values-or\\values-or.xml",
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\58ff6a7df21c424370ea93d2221e5ab3\\transformed\\browser-1.4.0\\res\\values-or\\values-or.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,165,270,383",
+                        "endColumns": "109,104,112,108",
+                        "endOffsets": "160,265,378,487"
                     },
                     "to": {
-                        "startLines": "24",
-                        "startColumns": "4",
-                        "startOffsets": "2772",
-                        "endColumns": "100",
-                        "endOffsets": "2868"
+                        "startLines": "20,21,22,23",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2335,2445,2550,2663",
+                        "endColumns": "109,104,112,108",
+                        "endOffsets": "2440,2545,2658,2767"
                     }
                 },
                 {
-                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\2f6608774b1a8500482538494ac943e4\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-or\\values.xml",
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\2f6608774b1a8500482538494ac943e4\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-or\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -69,6 +52,23 @@
                         "startOffsets": "1090",
                         "endColumns": "139",
                         "endOffsets": "1225"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\7d831ee6df538daa566e3cb1458f9453\\transformed\\core-1.8.0\\res\\values-or\\values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "24",
+                        "startColumns": "4",
+                        "startOffsets": "2772",
+                        "endColumns": "100",
+                        "endOffsets": "2868"
                     }
                 }
             ]

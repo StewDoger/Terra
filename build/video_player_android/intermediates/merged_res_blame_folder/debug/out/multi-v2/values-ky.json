@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Terra\\build\\video_player_android\\intermediates\\res\\merged\\debug\\values-ky\\values-ky.xml",
+            "outputFile": "D:\\VS Code\\Terra-1\\build\\video_player_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky\\values-ky.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\43f4fc414055a2c9fcd2c370e3ef7668\\transformed\\jetified-exoplayer-core-2.18.1\\res\\values-ky\\values-ky.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,126,191,262,333,420,491,578,662",
-                        "endColumns": "70,64,70,70,86,70,86,83,80",
-                        "endOffsets": "121,186,257,328,415,486,573,657,738"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\2fcc577f675ce6704336ccf92e77522a\\transformed\\core-1.7.0\\res\\values-ky\\values-ky.xml",
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\2fcc577f675ce6704336ccf92e77522a\\transformed\\core-1.7.0\\res\\values-ky\\values-ky.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,25 +18,25 @@
                         "startOffsets": "743",
                         "endColumns": "100",
                         "endOffsets": "839"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\43f4fc414055a2c9fcd2c370e3ef7668\\transformed\\jetified-exoplayer-core-2.18.1\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,126,191,262,333,420,491,578,662",
+                        "endColumns": "70,64,70,70,86,70,86,83,80",
+                        "endOffsets": "121,186,257,328,415,486,573,657,738"
                     }
                 }
             ]
         },
         {
-            "outputFile": "D:\\Terra\\build\\video_player_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky\\values-ky.xml",
+            "outputFile": "D:\\VS Code\\Terra-1\\build\\video_player_android\\intermediates\\res\\merged\\debug\\values-ky\\values-ky.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\43f4fc414055a2c9fcd2c370e3ef7668\\transformed\\jetified-exoplayer-core-2.18.1\\res\\values-ky\\values-ky.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,126,191,262,333,420,491,578,662",
-                        "endColumns": "70,64,70,70,86,70,86,83,80",
-                        "endOffsets": "121,186,257,328,415,486,573,657,738"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\2fcc577f675ce6704336ccf92e77522a\\transformed\\core-1.7.0\\res\\values-ky\\values-ky.xml",
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\2fcc577f675ce6704336ccf92e77522a\\transformed\\core-1.7.0\\res\\values-ky\\values-ky.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -60,6 +50,16 @@
                         "startOffsets": "743",
                         "endColumns": "100",
                         "endOffsets": "839"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\43f4fc414055a2c9fcd2c370e3ef7668\\transformed\\jetified-exoplayer-core-2.18.1\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,126,191,262,333,420,491,578,662",
+                        "endColumns": "70,64,70,70,86,70,86,83,80",
+                        "endOffsets": "121,186,257,328,415,486,573,657,738"
                     }
                 }
             ]
