@@ -11,7 +11,7 @@ final _store = FirebaseFirestore.instance;
 class Explore extends StatelessWidget {
 
   List<Color> _colors = [
-    Colors.red,
+    Color.fromARGB(255, 2, 2, 2),
     Colors.pink,
     Colors.blue,
     Colors.purple,
