@@ -43,14 +43,6 @@ void followData(userId) async {
   followers = data['followers'];
 }
 
-// User loggedInUser;
-// var data;
-// int posts;
-// // String userId;
-// var descr;
-// int followers;
-// int following;
-
 class UserProfile extends StatefulWidget {
   final posts;
   final descr;
@@ -387,15 +379,6 @@ class _ProfilePostsState extends State<ProfilePosts> {
                           ),
                         ),
                       )),
-                  // child: IonButton(
-                  //     onPressed: () {
-                  //       setState(() {
-                  //         _persposts = false;
-                  //       });
-                  //     },
-                  //     icon: FaIcon(
-                  //       FontAwesomeIcons.solidIdBadge,
-                  //     )),
                 ),
               ),
             ],
