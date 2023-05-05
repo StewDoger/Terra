@@ -379,15 +379,6 @@ class _ProfilePostsState extends State<ProfilePosts> {
                           ),
                         ),
                       )),
-                  // child: IonButton(
-                  //     onPressed: () {
-                  //       setState(() {
-                  //         _persposts = false;
-                  //       });
-                  //     },
-                  //     icon: FaIcon(
-                  //       FontAwesomeIcons.solidIdBadge,
-                  //     )),
                 ),
               ),
             ],
