@@ -39,7 +39,7 @@ class AppSettings extends StatelessWidget {
             title: Text("Security"),
           ),
           ListTile(
-              leading: FaIcon(FontAwesomeIcons.user), title: Text("Account")),
+              leading: FaIcon(FontAwesomeIcons.user), title: Text("Preference")),
           ListTile(
             leading: FaIcon(FontAwesomeIcons.questionCircle),
             title: Text("Help"),
@@ -49,7 +49,7 @@ class AppSettings extends StatelessWidget {
             title: Text("About"),
           ),
           ListTile(
-            title: Text("Add Account"),
+            title: Text("Add or Switch Accounts"),
           ),
           ListTile(
             // leading: FaIcon(FontAwesomeIcons.signOutAlt),
