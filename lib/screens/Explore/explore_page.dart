@@ -9,11 +9,6 @@ import 'package:terra_apps/screens/Posts/postView_model.dart';
 final _store = FirebaseFirestore.instance;
 
 class Explore extends StatelessWidget {
-//   @override
-//   _ExploreState createState() => _ExploreState();
-// }
-
-// class _ExploreState extends State<Explore> {
 
   List<Color> _colors = [
     Colors.red,
