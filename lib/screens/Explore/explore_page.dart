@@ -48,19 +48,6 @@ class Explore extends StatelessWidget {
         SingleChildScrollView(
           scrollDirection: Axis.horizontal,
           child: Row(
-            // children: <Widget>[
-            //   tagBuild('Travel', Colors.pink, context),
-            //   tagBuild('Architecture', Colors.blue, context),
-            //   tagBuild('Travel', Colors.orange, context),
-            //   tagBuild('Technology', Colors.red, context),
-            //   tagBuild('Flutter', cgen(_colors), context),
-            //   tagBuild('Python', cgen(_colors), context),
-            //   tagBuild('Reactjs', cgen(_colors), context),
-            //   tagBuild('Business', cgen(_colors), context),
-            //   tagBuild('Design', cgen(_colors), context),
-            //   tagBuild('Fashion', cgen(_colors), context),
-            //   tagBuild('Music', cgen(_colors), context),
-            // ],
           ),
         ),
         // SizedBox(
